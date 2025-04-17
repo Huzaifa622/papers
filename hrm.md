@@ -153,3 +153,57 @@ When all sub-systems function collaboratively, the overall performance of the bu
 
 ![image](https://github.com/user-attachments/assets/6b20a4b3-167e-4136-b29b-09d9e00051ac)
 
+# ⚖️ Equity Perceptions in Human Resource Management (HRM)
+
+## 📘 What are Equity Perceptions?
+
+In HRM, **Equity Perceptions** refer to how fairly employees believe they are being treated compared to others—especially regarding **pay, rewards, recognition, and work conditions**.
+
+These perceptions are crucial for maintaining motivation, satisfaction, and a positive work environment.
+
+---
+
+## 🧠 Based on Equity Theory
+
+The concept comes from **Equity Theory** (J. Stacy Adams), which states:
+
+> Employees compare their **inputs** (effort, skills, time) and **outputs** (salary, benefits, recognition) with those of others.
+
+- **Perceived fairness** = continued motivation  
+- **Perceived unfairness** = dissatisfaction, low performance, or leaving the organization
+
+---
+
+## 🧾 Types of Equity in HRM
+
+### 1. **Internal Equity**
+- Fairness of compensation **within the organization**  
+- Example: Managers earn more than junior staff, appropriately based on roles.
+
+### 2. **External Equity**
+- Fairness compared to similar jobs in **other organizations**  
+- Important for competitiveness in hiring and retaining talent.
+
+### 3. **Individual Equity**
+- Fairness between **employees doing similar jobs** in the same company  
+- Ensures equal pay for equal work.
+
+### 4. **Procedural Equity**
+- Fairness in the **process** of determining pay and rewards  
+- Involves transparency, consistency, and employee involvement.
+
+---
+
+## 🎯 Why Equity Perceptions Matter
+
+- 🔋 Improves employee **motivation and engagement**  
+- 🙌 Builds **trust** and organizational commitment  
+- 📉 Reduces **turnover**, conflict, and dissatisfaction  
+- 💼 Supports a **fair and inclusive workplace culture**
+
+---
+
+> Ensuring equity is not just about pay—it's about how employees **feel** they are being treated. Managing equity perceptions is a vital part of successful HR strategy.
+
+
+
