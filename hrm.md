@@ -151,4 +151,5 @@ When all sub-systems function collaboratively, the overall performance of the bu
 
 ---
 
+![image](https://github.com/user-attachments/assets/6b20a4b3-167e-4136-b29b-09d9e00051ac)
 
