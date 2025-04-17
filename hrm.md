@@ -105,3 +105,50 @@ To attract, retain, and motivate employees by fulfilling key needs:
 ---
 
 > 📚 Based on: Human Resource Management (13th Ed) – Mondy, Noe; Strategic Compensation – Martocchio; Strategic Compensation in Canada – Richard Long.
+
+
+# 🔄 Systems Concept in Business
+
+## 📘 What is the Systems Concept?
+
+The **Systems Concept** explains that a business operates as a **system** — a unified whole made up of interconnected **sub-systems** working together to achieve common goals.
+
+---
+
+## 🧩 Key Elements
+
+### 1. **Sub-Systems within a Business**
+Each part of a business is a sub-system:
+- **Production Sub-System**: Includes supply chain, inventory management, quality control, etc.
+- **Marketing Sub-System**: Includes product management, pricing, promotion, sales, and distribution.
+
+These sub-systems together form the **internal environment** of the organization.
+
+---
+
+### 2. **External Environment**
+A business also operates within a broader external environment, which influences its performance:
+
+- **Micro Environment**: Direct and immediate forces like customers, suppliers, lenders, and intermediaries.
+- **Macro Environment**: Larger, indirect forces such as economic, political, legal, social, cultural, and technological factors.
+
+---
+
+### 3. **Synergy**
+A key principle of the systems concept is **synergy**:
+> "The whole is greater than the sum of its parts."
+
+When all sub-systems function collaboratively, the overall performance of the business improves beyond what each part could achieve individually.
+
+---
+
+## 🎯 Why the Systems Concept Matters
+
+- Encourages a **holistic view** of the organization.
+- Helps managers understand how each department impacts the others.
+- Promotes **cross-functional collaboration**.
+- Provides a framework for adapting to environmental changes effectively.
+
+---
+
+
