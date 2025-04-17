@@ -1,3 +1,87 @@
+
+# Human Resource Management Functions
+
+This document outlines the key functions of Human Resource Management (HRM) and their interconnectedness. The HRM functions work collaboratively to ensure a healthy, efficient, and productive workforce within an organization.
+
+## Functions
+
+### 1. Staffing
+**Objective:** Identifying and recruiting the right people to fulfill organizational needs.
+
+- **Key Activities:**
+  - Job posting and advertisement
+  - Conducting interviews and selection processes
+  - Employee onboarding
+
+- **Goal:** Ensure the organization has the right number of employees with the appropriate skills.
+
+---
+
+### 2. Human Resource Development (HRD)
+**Objective:** Improving employee capabilities and aligning individual growth with organizational goals.
+
+- **Key Activities:**
+  - Employee training programs
+  - Career development initiatives
+  - Performance evaluation and feedback
+
+- **Goal:** Enhance employee skills to meet organizational demands and foster individual growth.
+
+---
+
+### 3. Compensation
+**Objective:** Managing the remuneration system to maintain fairness, satisfaction, and motivation.
+
+- **Key Activities:**
+  - Managing salaries, bonuses, and incentives
+  - Offering benefits packages
+  - Ensuring internal and external equity
+
+- **Goal:** Attract and retain talent through competitive and fair compensation.
+
+---
+
+### 4. Safety & Health
+**Objective:** Ensuring a safe and healthy working environment for employees.
+
+- **Key Activities:**
+  - Ensuring physical safety standards are met
+  - Implementing mental health initiatives
+  - Compliance with occupational safety laws and regulations
+
+- **Goal:** Foster a safe and supportive environment for employees to thrive and perform.
+
+---
+
+### 5. Employee & Labor Relations
+**Objective:** Maintaining healthy relationships between employees and the organization.
+
+- **Key Activities:**
+  - Conflict resolution
+  - Grievance handling
+  - Union negotiations
+  - Ensuring compliance with labor laws
+
+- **Goal:** Promote harmonious relations and resolve workplace disputes effectively.
+
+---
+
+## Interconnected Functions
+
+The HRM functions are highly interconnected, where improvement in one area often positively impacts others:
+
+- **Effective Staffing** feeds into **HR Development** by ensuring the right people with the right skills.
+- **Fair Compensation** contributes to positive **Labor Relations** and enhances employee motivation and satisfaction.
+- A **Safe and Healthy** work environment influences employee **Performance** and **Retention**.
+
+---
+
+## Conclusion
+
+HRM functions are critical to creating an environment that promotes organizational growth and employee well-being. By focusing on these interconnected functions, businesses can build a motivated, skilled, and satisfied workforce, driving overall success.
+
+
+
 # 📘 Compensation – Human Resource Management (Lecture 01)
 
 This document provides an overview of **Compensation** as covered in Lecture 01 of "An Introduction to Human Resource Management".
